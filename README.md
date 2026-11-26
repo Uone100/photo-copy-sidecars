@@ -2,6 +2,14 @@
 
 Find every byte-identical copy of a chosen photograph under one local folder, including renamed files. See which copies have different adjacent XMP edits before organizing the originals.
 
+[Download v0.1.0 ZIP](https://github.com/Uone100/photo-copy-sidecars/releases/download/v0.1.0/photo-copy-sidecars-0.1.0.zip)
+
+Install in a Codex project with Node.js 22.20 or newer:
+
+```sh
+npx skills add Uone100/photo-copy-sidecars -a codex
+```
+
 ## English quickstart
 
 **[Follow the step-by-step tutorial](TUTORIAL.md)**
